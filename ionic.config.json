@@ -1,0 +1,7 @@
+{
+  "name": "facebook-login-teste",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
