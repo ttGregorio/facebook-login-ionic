@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">facebook-login-teste</string>
+    <string name="title_activity_main">facebook-login-teste</string>
+    <string name="package_name">br.com.sunset</string>
+    <string name="custom_url_scheme">br.com.sunset</string>
+    <string name="facebook_app_id">2689599394686690</string>
+    <string name="fb_login_protocol_scheme">fb2689599394686690</string>
+</resources>
